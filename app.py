@@ -12,7 +12,7 @@ html_code = """
 
 <html lang="fr">
 <head>
-<meta charset="utf-8"/>
+<meta charset="ansi"/>
 <title>Jardin 3D</title>
 <style>
     body { margin: 0; overflow: hidden; }
